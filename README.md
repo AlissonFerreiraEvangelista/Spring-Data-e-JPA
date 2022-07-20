@@ -1,6 +1,6 @@
 # Spring-Data-e-JPA
 
-Treinando pesistência de forma simples com JPA, JUnit e JPQL
+Treinando pesistência de forma simples com Spring Data, JPA, JUnit e JPQL
 
 ## Começando
 

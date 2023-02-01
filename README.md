@@ -1,4 +1,4 @@
-# Spring-Data-e-JPA
+# Spring-Data-JPA
 
 Treinando pesistência de forma simples com Spring Data JPA, JUnit e JPQL
 
